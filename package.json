@@ -1,0 +1,12 @@
+{
+  "name": "2025-nodejs-prof",
+  "version": "1.0.0",
+  "description": "Introduction à node Js",
+  "license": "ISC",
+  "author": "rostand lele",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
